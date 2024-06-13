@@ -17,7 +17,7 @@ public:
 };
 
 class BinaryTree {
-
+public:
 };
 
 
